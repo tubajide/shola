@@ -42,7 +42,7 @@
     "uniqCompNum": 15,
     "versionPublish": "5.0.15",
     "publishChangesOnly": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/imac-mail-96px-96x96.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
