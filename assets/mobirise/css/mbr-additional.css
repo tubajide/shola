@@ -1064,6 +1064,7 @@ a {
 }
 .cid-s64VGFhIqe .mbr-section-title {
   text-align: left;
+  color: #4479d9;
 }
 .cid-s64VGFhIqe .mbr-text,
 .cid-s64VGFhIqe .mbr-section-btn {
@@ -1080,7 +1081,7 @@ a {
 .cid-s64ZD4OWwf {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-s64ZD4OWwf .item {
   display: flex;
@@ -1109,6 +1110,16 @@ a {
   .cid-s64ZD4OWwf .card-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-s64ZD4OWwf .card-title,
+.cid-s64ZD4OWwf .card-box {
+  color: #4479d9;
+}
+.cid-s64ZD4OWwf .icon-title {
+  color: #2299aa;
+}
+.cid-s64ZD4OWwf .icon-text {
+  color: #777d74;
 }
 .cid-s64ZHeH5Ot {
   padding-top: 4rem;
@@ -1141,6 +1152,9 @@ a {
 .cid-s64ZHeH5Ot .row {
   justify-content: center;
 }
+.cid-s64ZHeH5Ot H3 {
+  color: #4479d9;
+}
 .cid-s64ZUCA4RA {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1171,6 +1185,12 @@ a {
   padding-right: 1.5rem;
   color: #6592e6;
 }
+.cid-s64ZUCA4RA H3 {
+  color: #4479d9;
+}
+.cid-s64ZUCA4RA .card-title {
+  color: #000000;
+}
 .cid-s6519YvoHa {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1186,6 +1206,12 @@ a {
 }
 .cid-s6519YvoHa form .mbr-section-btn .btn {
   display: inline-flex;
+}
+.cid-s6519YvoHa .mbr-section-title {
+  color: #4479d9;
+}
+.cid-s6519YvoHa .mbr-section-subtitle {
+  color: #333333;
 }
 .cid-s6503XsMNQ {
   padding-top: 2rem;
